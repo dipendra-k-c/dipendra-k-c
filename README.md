@@ -18,6 +18,14 @@ I am a huge technology enthusiast, which has led me to develop a passion for cyb
 | Digital Forensics | Forensics reporting | [`Digital_forensics`](https://github.com/dipendra-k-c/digital_forensics) |
 | Offensive/AD Security | Active Directory Enumeration | [`Active-Directory`](https://github.com/dipendra-k-c/Active-Directory) |
 | Offensive/AD Security | Active Directory Exploitation | [`Active-Directory`](https://github.com/dipendra-k-c/Active-Directory) |
+| Malware Analysis | Static & dynamic analysis | [`Malware-Analysis-and-Reverse-Engineering`](https://github.com/dipendra-k-c/Malware-Analysis-and-Reverse-Engineering) |
+| Malware Analysis | Sandbox/behavioral analysis | [`Malware-Analysis-and-Reverse-Engineering`](https://github.com/dipendra-k-c/Malware-Analysis-and-Reverse-Engineering) |
+| Malware Analysis | IOC extraction & threat intel | [`Malware-Analysis-and-Reverse-Engineering`](https://github.com/dipendra-k-c/Malware-Analysis-and-Reverse-Engineering) |
+| Malware Analysis | MITRE ATT&CK mapping | [`Malware-Analysis-and-Reverse-Engineering`](https://github.com/dipendra-k-c/Malware-Analysis-and-Reverse-Engineering) |
+
+
+
+
 
 
 <!--
