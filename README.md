@@ -8,7 +8,7 @@ I am a huge technology enthusiast, which has led me to develop a passion for cyb
 # SKills
 | Category | Skill | Projects/Certification |
 | --- | --- | --- |
-| Network Defense | IDS?IPS deployment & tuning | [`Snort-IDS-IPS`](Snort-IDS-IPS) |
+| Network Defense | IDS?IPS deployment & tuning | [`Snort-IDS-IPS`](dipendra-k-c/Snort-IDS-IPS) |
 <!--
 **dipendra-k-c/dipendra-k-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
