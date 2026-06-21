@@ -37,7 +37,7 @@ Cybersecurity professional transitioning from an IT background into Security Ope
 3. [`Active-Directory`](https://github.com/dipendra-k-c/Active-Directory)
 4. [`Malware-Analysis`](https://github.com/dipendra-k-c/Malware-Analysis-and-Reverse-Engineering)
 
-# Writeups
+# Continious practice
 1. [vulnyx](https://github.com/dipendra-k-c/vulnyx) — Write-ups for Vulnyx vulnerable machines, covering enumeration and privilege escalation
 2. [tryhackme_writeups](https://github.com/dipendra-k-c/tryhackme_writeups) — Write-ups from TryHackMe rooms
 
