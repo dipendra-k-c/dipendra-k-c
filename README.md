@@ -8,7 +8,18 @@ I am a huge technology enthusiast, which has led me to develop a passion for cyb
 # SKills
 | Category | Skill | Projects/Certification |
 | --- | --- | --- |
-| Network Defense | IDS?IPS deployment & tuning | [`Snort-IDS-IPS`](https://github.com/dipendra-k-c/Snort-IDS-IPS) |
+| Network Defense | IDS/IPS deployment & tuning | [`Snort-IDS-IPS`](https://github.com/dipendra-k-c/Snort-IDS-IPS) |
+| Network Defense | Network Traffic Analysis | [`Snort-IDS-IPS`](https://github.com/dipendra-k-c/Snort-IDS-IPS) |
+| GRC | Risk assessment & audit methodology | ISO |
+| GRC | Security frameworks (ISO 27001) | ISO |
+| Foundational security | Security fundamentals | Comptia security+ |
+| Foundational Security | SOC-level triage | sal1 |
+| Digital Forensics | Evidence handling & artifact analysis | [`Digital_forensics`](https://github.com/dipendra-k-c/digital_forensics) |
+| Digital Forensics | Forensics reporting | [`Digital_forensics`](https://github.com/dipendra-k-c/digital_forensics) |
+| Offensive/AD Security | Active Directory Enumeration | [`Active-Directory`](https://github.com/dipendra-k-c/Active-Directory) |
+| Offensive/AD Security | Active Directory Exploitation | [`Active-Directory`](https://github.com/dipendra-k-c/Active-Directory) |
+
+
 <!--
 **dipendra-k-c/dipendra-k-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
