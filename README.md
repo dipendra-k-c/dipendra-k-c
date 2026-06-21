@@ -23,7 +23,7 @@ I am a huge technology enthusiast, which has led me to develop a passion for cyb
 | Malware Analysis | IOC extraction & threat intel | [`Malware-Analysis`](https://github.com/dipendra-k-c/Malware-Analysis-and-Reverse-Engineering) |
 | Malware Analysis | MITRE ATT&CK mapping | [`Malware-Analysis`](https://github.com/dipendra-k-c/Malware-Analysis-and-Reverse-Engineering) |
 
-# Certification
+# Certifications
 <a href="https://www.credly.com/badges/02ce7b47-b615-41d1-83a6-548257531e4b/linked_in_profile"><img src="https://img.shields.io/badge/Security+-CompTIA%20Security+-red?logo=compTIA&logoColor=white"></a>
 
 <a href="https://www.credly.com/earner/earned/badge/b8832a94-9f70-4854-bbf1-8d8dacb547ac"><img src="https://img.shields.io/badge/ISO_27001-Lead_Auditor-blue"></a>
@@ -32,8 +32,11 @@ I am a huge technology enthusiast, which has led me to develop a passion for cyb
 
 <a href="https://assets.tryhackme.com/certification-certificate/6958e68ba7a431d09e5793d4.pdf"><img src="https://img.shields.io/badge/SAL1-red"></a>
 
-
-
+# Projects 
+1. [`Snort-IDS-IPS`](https://github.com/dipendra-k-c/Snort-IDS-IPS)
+2. [`Digital_forensics`](https://github.com/dipendra-k-c/digital_forensics)
+3. [`Active-Directory`](https://github.com/dipendra-k-c/Active-Directory)
+4. [`Malware-Analysis`](https://github.com/dipendra-k-c/Malware-Analysis-and-Reverse-Engineering)
 
 
 <!--
