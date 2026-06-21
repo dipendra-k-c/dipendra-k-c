@@ -24,7 +24,7 @@ I am a huge technology enthusiast, which has led me to develop a passion for cyb
 | Malware Analysis | MITRE ATT&CK mapping | [`Malware-Analysis`](https://github.com/dipendra-k-c/Malware-Analysis-and-Reverse-Engineering) |
 
 # Certification
-<a herf="https://www.credly.com/badges/02ce7b47-b615-41d1-83a6-548257531e4b/linked_in_profile"><img src="https://img.shields.io/badge/Security+-CompTIA%20Security+-red?logo=compTIA&logoColor=white"></a>
+<a herf="https://www.credly.com/badges/02ce7b47-b615-41d1-83a6-548257531e4b/linked_in_profile/"><img src="https://img.shields.io/badge/Security+-CompTIA%20Security+-red?logo=compTIA&logoColor=white"></a>
 
 
 
