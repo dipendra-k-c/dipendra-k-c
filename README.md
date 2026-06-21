@@ -30,6 +30,7 @@ I am a huge technology enthusiast, which has led me to develop a passion for cyb
 
 <a href="https://www.credly.com/earner/earned/badge/a0647d4d-6110-47bc-a2bc-93f6c82fc876"><img src="https://img.shields.io/badge/GRC-Mastery-green"></a>
 
+<a href="https://assets.tryhackme.com/certification-certificate/6958e68ba7a431d09e5793d4.pdf"><img src="https://img.shields.io/badge/SAL1-red"></a>
 
 
 
