@@ -10,8 +10,8 @@ I am a huge technology enthusiast, which has led me to develop a passion for cyb
 | --- | --- | --- |
 | Network Defense | IDS/IPS deployment & tuning | [`Snort-IDS-IPS`](https://github.com/dipendra-k-c/Snort-IDS-IPS) |
 | Network Defense | Network Traffic Analysis | [`Snort-IDS-IPS`](https://github.com/dipendra-k-c/Snort-IDS-IPS) |
-| GRC | Risk assessment & audit methodology | [`ISO/IEC 27001 Lead auditor'](https://www.credly.com/earner/earned/badge/b8832a94-9f70-4854-bbf1-8d8dacb547ac) |
-| GRC | Security frameworks (ISO 27001) | [`ISO/IEC 27001 Lead auditor'](https://www.credly.com/earner/earned/badge/b8832a94-9f70-4854-bbf1-8d8dacb547ac) |
+| GRC | Risk assessment & audit methodology | [`ISO/IEC 27001 Lead auditor`](https://www.credly.com/earner/earned/badge/b8832a94-9f70-4854-bbf1-8d8dacb547ac) |
+| GRC | Security frameworks (ISO 27001) | [`ISO/IEC 27001 Lead auditor`](https://www.credly.com/earner/earned/badge/b8832a94-9f70-4854-bbf1-8d8dacb547ac) |
 | Foundational security | Security fundamentals | [`Comptia Security+`](https://www.credly.com/earner/earned/badge/02ce7b47-b615-41d1-83a6-548257531e4b) |
 | Foundational Security | SOC-level triage | [`SAL1`](https://assets.tryhackme.com/certification-certificate/6958e68ba7a431d09e5793d4.pdf) |
 | Digital Forensics | Evidence handling & artifact analysis | [`Digital_forensics`](https://github.com/dipendra-k-c/digital_forensics) |
