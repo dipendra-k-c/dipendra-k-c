@@ -2,10 +2,9 @@
 <a href="https://www.linkedin.com/in/dipendra-4cba1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 # Objectives
-I am a huge technology enthusiast, which has led me to develop a passion for cybersecurity, and I am now eager to transistion into this field, especially aiming to join a Security Operations Center (SOC), Security Analyst, GRC analyst or Malware analyst as a Tier 1.
+Cybersecurity professional transitioning from an IT background into Security Operations Center (SOC), GRC, and Malware Analyst roles. Backed by CompTIA Security+, ISO 27001 Lead Auditor, and TryHackMe SAL1 certifications, with hands-on experience in malware analysis, digital forensics, Active Directory security, and network intrusion detection demonstrated in the projects below.
 
-
-# SKills
+# Skills
 | Category | Skill | Projects/Certification |
 | --- | --- | --- |
 | Network Defense | IDS/IPS deployment & tuning | [`Snort-IDS-IPS`](https://github.com/dipendra-k-c/Snort-IDS-IPS) |
@@ -38,6 +37,9 @@ I am a huge technology enthusiast, which has led me to develop a passion for cyb
 3. [`Active-Directory`](https://github.com/dipendra-k-c/Active-Directory)
 4. [`Malware-Analysis`](https://github.com/dipendra-k-c/Malware-Analysis-and-Reverse-Engineering)
 
+# Writeups
+1. [vulnyx](https://github.com/dipendra-k-c/vulnyx) — Write-ups for Vulnyx vulnerable machines, covering enumeration and privilege escalation
+2. [tryhackme_writeups](https://github.com/dipendra-k-c/tryhackme_writeups) — Write-ups from TryHackMe rooms
 
 <!--
 **dipendra-k-c/dipendra-k-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
